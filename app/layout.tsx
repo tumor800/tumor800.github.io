@@ -2,10 +2,10 @@ import './globals.css';
 import localFont from 'next/font/local';
 
 const hackFont = localFont({
-  src: './fonts/hack.regular.ttf',
+  src: './fonts/Montserrat-Regular.ttf',
   weight: '400',
   style: 'normal',
-  variable: '--hack',
+  variable: '--montserrat',
 });
 
 export const metadata = {
@@ -16,7 +16,7 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className={`${hackFont.variable} bg-j1`}>{children}</body>
+      <body className={`${hackFont.variable} bg-j1 text-slate-400`}>{children}</body>
     </html>
   );
 }

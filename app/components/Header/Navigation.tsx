@@ -12,7 +12,7 @@ const Navigation = () => {
         experiences.
       </p>
       {/* TODO: change lg:hidden to lg:block */}
-      <nav className="nav hidden lg:hidden" aria-label="In-page jump links">
+      <nav className="nav hidden lg:hidden">
         <ul className="mt-16 w-max">
           <li>
             <a className="group flex items-center py-3 active" href="#about">

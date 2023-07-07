@@ -4,20 +4,20 @@ import SvgLinkedIn from '@tumor800/svg/SvgLinkedIn';
 
 const socialMediaList = [
   {
-    name: 'Github',
-    Icon: SvgGithub,
-    url: 'https://github.com/tumor800',
-  },
-  {
     name: 'LinkedIn',
     Icon: SvgLinkedIn,
     url: 'https://www.linkedin.com/in/johan-gideon/',
+  },
+  {
+    name: 'Github',
+    Icon: SvgGithub,
+    url: 'https://github.com/tumor800',
   },
 ];
 
 const SocialMedia = () => {
   return (
-    <ul className="ml-1 mt-8 flex items-center" aria-label="Social media">
+    <ul className="ml-1 mt-8 flex items-center">
       {socialMediaList.map(item => (
         <li className="mr-5 text-xs" key={item.name}>
           <a
