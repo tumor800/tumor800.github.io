@@ -10,7 +10,7 @@ const hackFont = localFont({
 
 export const metadata = {
   title: 'Johan Gideon',
-  description: "Johan Gideon's Portfolios",
+  description: "Johan Gideon's Portfolio",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
