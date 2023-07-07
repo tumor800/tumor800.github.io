@@ -18,11 +18,8 @@ const experiences = [
     duration: '2017 — Mar 2018',
     lastPosition: 'Web Engineer (Part-time)',
     previousPositions: [],
-    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.`,
+    description:
+      'As a front-end developer, I played a key role in developing the Goers website, enabling users to conveniently order tickets for events and movies. I efficiently translated the UX design into front-end code, ensuring a seamless alignment with the web branding and style. Leveraging JavaScript and the React library, I implemented the necessary functionalities. Collaborating closely with the team, I contributed to creating a powerful and engaging website experience.',
     technologies: ['React', 'JavaScript', 'HTML', 'CSS'],
   },
   {
@@ -32,7 +29,7 @@ const experiences = [
     lastPosition: 'Backend Engineer (Intern)',
     previousPositions: [],
     description:
-      'As a front-end engineer, I performed website maintenance tasks, including bug fixing, content updates, and creating new features. I analyzed and resolved client-reported bugs, designed SQL Server databases, managed .NET data, and developed ASP.NET user interfaces. I also implemented future-ready website features.',
+      'As a developer, I performed website maintenance tasks, including bug fixing, content updates, and creating new features. I analyzed and resolved client-reported bugs, designed SQL Server databases, managed .NET data, and developed ASP.NET user interfaces. I also implemented future-ready website features.',
     technologies: ['C#', '.NET', 'Sitefinity', 'Sitecore', 'SQL Server', 'HTML', 'CSS'],
   },
 ];
