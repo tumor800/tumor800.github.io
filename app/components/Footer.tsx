@@ -58,7 +58,7 @@ const Footer = () => {
         >
           Montserrat
         </a>{' '}
-        typeface was used for all text. Icons are from{' '}
+        typeface is used for all text. Icons are from{' '}
         <a
           href="https://iconmonstr.com/"
           className="font-medium text-slate-400 hover:text-j4 focus-visible:text-j4"
