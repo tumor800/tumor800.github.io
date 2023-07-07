@@ -7,8 +7,8 @@ const AboutMe = () => {
       <Title title="About" />
       <div>
         <p className="mb-4">
-          Back in 2014, I discovered my passion for coding in College. Since then, I've had the opportunity to work with
-          various organizations, including a{' '}
+          Back in 2014, I discovered my passion for coding in College. Since then, I&apos;ve had the opportunity to work
+          with various organizations, including a{' '}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.xtremax.com/"
