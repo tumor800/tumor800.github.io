@@ -26,7 +26,7 @@ const AboutMe = () => {
           >
             ticketing platform
           </a>
-          , and an{' '}
+          , an{' '}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.traveloka.com/"
@@ -34,6 +34,24 @@ const AboutMe = () => {
             rel="noreferrer"
           >
             online travel agency
+          </a>
+          , a{' '}
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://pintu.co.id/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            cryptocurrency exchange platform
+          </a>
+          ,and a{' '}
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://www.m1.com.sg/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            telco company
           </a>
           . These experiences have enriched my skills and allowed me to build software tailored to different industries.
         </p>

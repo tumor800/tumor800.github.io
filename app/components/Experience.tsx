@@ -3,6 +3,26 @@ import Title from './Title';
 
 const experiences = [
   {
+    companyName: 'M1 Digital Labs',
+    companyUrl: 'https://www.m1.com.sg/',
+    duration: '2023 — Present',
+    lastPosition: 'React Native Developer',
+    previousPositions: [],
+    description:
+      'Streamlined development by creating a CI/CD pipeline, established a testing environment for components, hooks, and integration tests, and performed maintenance to ensure all functionalities worked smoothly, providing the best user experience.',
+    technologies: ['React Native', 'React', 'JavaScript', 'TypeScript', 'Azure', 'Python', 'Jupyter Notebook'],
+  },
+  {
+    companyName: 'Pintu',
+    companyUrl: 'https://pintu.co.id/',
+    duration: 'Aug — Oct 2023',
+    lastPosition: 'Web Engineer',
+    previousPositions: [],
+    description:
+      'Developed internal tools for managing and monitoring market makers, including configuring alerts when their holdings reached certain thresholds, enhancing operational efficiency and risk management.',
+    technologies: ['NextJS', 'React', 'JavaScript', 'TypeScript', 'Tailwind'],
+  },
+  {
     companyName: 'Traveloka',
     companyUrl: 'https://www.traveloka.com/',
     duration: '2018 — May 2023',
