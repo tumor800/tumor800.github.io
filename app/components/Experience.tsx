@@ -16,7 +16,7 @@ const experiences = [
     companyName: 'Pintu',
     companyUrl: 'https://pintu.co.id/',
     duration: 'Aug — Oct 2023',
-    lastPosition: 'Web Engineer',
+    lastPosition: 'Software Engineer III',
     previousPositions: [],
     description:
       'Developed internal tools for managing and monitoring market makers, including configuring alerts when their holdings reached certain thresholds, enhancing operational efficiency and risk management.',
@@ -26,7 +26,7 @@ const experiences = [
     companyName: 'Traveloka',
     companyUrl: 'https://www.traveloka.com/',
     duration: '2018 — May 2023',
-    lastPosition: 'Associate Front-end Lead',
+    lastPosition: 'Front-end Lead',
     previousPositions: ['React Native Engineer'],
     description:
       'Accomplished front-end engineer with a proven track record of success. Highlights include developing and launching the Gold product in a mobile application, implementing a RESTful API for internal web tools, and improved code maintainability and reduce complexity. Adept at mentoring junior developers on React Native best practices. Successfully developed and launched the Insurance Standalone mobile and web applications. Known for collaborating effectively with cross-functional teams.',
